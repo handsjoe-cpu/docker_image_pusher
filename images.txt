@@ -6,6 +6,6 @@ diygod/rsshub:chromium-bundled
 redis:alpine
 postgres:16-alpine
 directus/directus:latest
-directus/directus:11
+
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
